@@ -9,7 +9,7 @@ however that use of the default Importer is not thread safe.
 package gofpdi
 
 import (
-	realgofpdi "github.com/phpdave11/gofpdi"
+	realgofpdi "github.com/teamhybird/gofpdi"
 	"io"
 )
 
